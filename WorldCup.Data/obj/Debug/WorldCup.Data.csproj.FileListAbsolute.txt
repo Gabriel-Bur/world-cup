@@ -1,0 +1,14 @@
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csprojAssemblyReference.cache
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CoreCompileInputs.cache
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.dll.config
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.pdb
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Domain.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Domain.pdb
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.xml
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CopyComplete
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.pdb

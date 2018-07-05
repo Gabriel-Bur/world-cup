@@ -1,0 +1,6 @@
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Domain\bin\Debug\WorldCup.Domain.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Domain\bin\Debug\WorldCup.Domain.pdb
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Domain\obj\Debug\WorldCup.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Domain\obj\Debug\WorldCup.Domain.dll
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Domain\obj\Debug\WorldCup.Domain.pdb
+C:\Users\cx750\Documents\Documentos\Projetos\WorldCup\WorldCup.Domain\obj\Debug\WorldCup.Domain.csprojAssemblyReference.cache

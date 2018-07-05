@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WorldCup.Web.Models.ModelViewMatch>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Jogos</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Team1)
+        </th>
+        <th>
+            X
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Team2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Winner)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team1)
+            </td>
+            <td>
+                vs
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Winner)
+            </td>
+            <td>
+                @if (item.Over == true)
+                {
+                    <text>
+                        <s>Play</s> |
+                        <s>Editar</s> |
+                    </text>
+
+                }
+                else
+                {
+                    @Html.ActionLink("Play", "Play", new { id = item.Id })
+                    <text>|</text>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                    <text>|</text>
+                }
+
+
+                @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+    
+    @Html.ActionLink("Criar Jogo", "Create")
+
+
+
